@@ -18,14 +18,12 @@ namespace HexagonAPI.Controllers
         public XGraphController()
         {
             InitData();
-          
 
         }
 
-
         private void InitData()
         {
-            string fileName = @"D:\Hexagon\HexagonAPI\DemoJson.json";
+            string fileName = @"E:\MyGit\HexagonAPI\HexagonAPI\DemoJson.json";
             IList<Edge> eList;
             IList<Vertex> vList;
 
@@ -35,9 +33,10 @@ namespace HexagonAPI.Controllers
                 JObject jObj = JObject.Parse(json);
 
                 eList = JsonConvert.DeserializeObject<IList<Edge>>(jObj["EList"].ToString());
-                vList = JsonConvert.DeserializeObject<IList<Vertex>>(jObj["VList"].ToString()); 
-                graph = new XGraph(vList,eList);
-                
+                vList = JsonConvert.DeserializeObject<IList<Vertex>>(jObj["VList"].ToString());
+                graph = new XGraph(vList, eList);
+            
+
             }
         }
 

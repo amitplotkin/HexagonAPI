@@ -52,7 +52,11 @@ namespace HexagonGraphBLL
             }
             if (edges != null && edges.Any())
             {
-                _EdgeManager.AddNewEdge(edges);
+                foreach (var item in edges)
+                {
+                    AddEdge(item);
+                }
+              
             }
         }
 
