@@ -1,0 +1,179 @@
+{
+  "EList": [
+    {
+      "vertex1": {
+        "PointX": 1,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 2,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 1,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 3,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 3,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 2,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 4,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 4,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 5,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 6,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 4,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 4,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 8,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 9,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 9,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 10,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    },
+    {
+      "vertex1": {
+        "PointX": 9,
+        "GraphCount": 0,
+        "GraphItems": []
+      },
+      "vertex2": {
+        "PointX": 11,
+        "GraphCount": 0,
+        "GraphItems": []
+      }
+    }
+  ],
+  "VList": [
+    {
+      "PointX": 1,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 2,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 3,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 4,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 5,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 6,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 7,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 8,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 9,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 10,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 11,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 12,
+      "GraphCount": 0,
+      "GraphItems": []
+    },
+    {
+      "PointX": 13,
+      "GraphCount": 0,
+      "GraphItems": []
+    }
+  ]
+}
