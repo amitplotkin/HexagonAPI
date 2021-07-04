@@ -106,6 +106,12 @@ namespace HexagonGraphBLL
         {
             return Vertices.FirstOrDefault(x => x.PointX == vertex.PointX);
         }
+
+        public Vertex GetVertex(int vertexID)
+        {
+            throw new NotImplementedException();
+        }
+
         public Edge GetEdge(string edgeID)
         {
             if (Edges.ContainsKey(edgeID))

@@ -98,10 +98,10 @@ namespace XUnitTestXGraph
             graph.AddVertex(v4);
             graph.AddVertex(v5);
 
-            graph.AddEdge(new Edge(ref v1, ref v2));
-            graph.AddEdge(new Edge(ref v2, ref v3));
-            graph.AddEdge(new Edge(ref v6, ref v7));
-            graph.AddEdge(new Edge(ref v7, ref v1));
+            graph.AddEdge(new Edge( v1,  v2));
+            graph.AddEdge(new Edge( v2,  v3));
+            graph.AddEdge(new Edge( v6,  v7));
+            graph.AddEdge(new Edge( v7,  v1));
         }
 
 

@@ -7,7 +7,7 @@ namespace HexagonGraphBLL
     [Serializable]
     public class Edge
     {
-        public Edge(ref Vertex from,ref Vertex to)
+        public Edge(Vertex from,Vertex to)
         {
         
             this.vertex1 = from;
