@@ -55,7 +55,7 @@ namespace HexagonAPI.Controllers
             return Json(graph);
         }
 
-        [HttpGet("/split")]
+        [HttpGet("split")]
         public IActionResult GetGraphSplit()
         {
             return Json(graph.Split());
